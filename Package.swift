@@ -14,10 +14,11 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
 //        .package(name: "HdpSdk", url: "https://homeos-wbench.wesp.telekom.net/gitlab/data/hdp-sdk-ios.git", .exact("1.0.0")),
-        .package(url: "https://homeos-wbench.wesp.telekom.net/gitlab/data/hdp-sdk-ios.git", .exact("1.0.0")),
+        .package(url: "https://github.com/Kilo-Loco/MySexyPackage.git", .exact("1.0.0")),
+
+//        .package(url: "https://homeos-wbench.wesp.telekom.net/gitlab/data/hdp-sdk-ios.git", .exact("1.0.0")),
 //        .package(url: "gitlab@homeos-wbench.workbench.telekom.de:data/hdp-sdk-ios.git", .branch("master")),
         
-        .package(url: "https://github.com/Kilo-Loco/MySexyPackage.git", .exact("1.0.0")),
 
     ],
     targets: [
