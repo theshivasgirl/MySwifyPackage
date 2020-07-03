@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HdpSdk",
+        "repositoryURL": "https://homeos-wbench.wesp.telekom.net/gitlab/data/hdp-sdk-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "60e34f6e9595ff1d3952b4b855c8ed25a8717217",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "MessagePack",
+        "repositoryURL": "https://github.com/HappiHacking/MessagePack",
+        "state": {
+          "branch": null,
+          "revision": "02cc9207c71c621db374fc51c9bf8ea4fe1c145f",
+          "version": "2.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
